@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Ico/copy_file.png</file>
+        <file>Ico/cut.png</file>
+        <file>Ico/delete.png</file>
+        <file>Ico/document_open.png</file>
+        <file>Ico/new_file.png</file>
+        <file>Ico/paste.png</file>
+        <file>Ico/redo.png</file>
+        <file>Ico/save.png</file>
+        <file>Ico/save_as.png</file>
+        <file>Ico/search.png</file>
+        <file>Ico/undo.png</file>
+        <file>Ico/color.png</file>
+        <file>Ico/Fonts.png</file>
+        <file>Ico/about.png</file>
+        <file>Ico/color-circle.png</file>
+        <file>Ico/zoom_in.png</file>
+        <file>Ico/zoom_out.png</file>
+        <file>Ico/Zoom-In-icon.png</file>
+        <file>Ico/Zoom-Out-icon.png</file>
+        <file>Ico/Text-align-center-icon.png</file>
+        <file>Ico/Text-align-left-icon.png</file>
+        <file>Ico/Text-align-right-icon.png</file>
+        <file>Ico/printer.png</file>
+        <file>Ico/calendar.png</file>
+    </qresource>
+</RCC>
